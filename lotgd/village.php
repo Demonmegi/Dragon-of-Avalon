@@ -173,6 +173,17 @@ if (getsetting("enablecompanions",true)) {
 	tlschema();
 }
 
+addnav("Village of Avalon","runmodule.php?module=cities&op=travel&city=Village%20of%20Avalon");
+addnav("South Gate Avalon","runmodule.php?module=cities&op=travel&city=Southgate%20Avalon");
+addnav("Outer Bailey","runmodule.php?module=cities&op=travel&city=Outer%20Bailey");
+addnav("Peasants Bailey","runmodule.php?module=cities&op=travel&city=Peasants%20Bailey");
+addnav("Outer Bailey","runmodule.php?module=cities&op=travel&city=Outer%20Bailey");
+addnav("Inner Bailey","runmodule.php?module=cities&op=travel&city=Inner%20Bailey");
+addnav("Inner Keep","runmodule.php?module=cities&op=travel&city=Inner%20Keep");
+addnav("Caves","runmodule.php?module=cities&op=travel&city=Caves");
+addnav("Crypt","runmodule.php?module=cities&op=travel&city=Crypt");
+addnav("The Steppe","runmodule.php?module=cities&op=travel&city=The%20Steppe");
+
 tlschema($schemas['fightnav']);
 addnav($texts['fightnav']);
 tlschema();

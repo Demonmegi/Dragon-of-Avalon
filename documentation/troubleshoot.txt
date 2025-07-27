@@ -1,0 +1,1 @@
+Can't connect to the db inside the Container: Find out the IP Adress of the lotgd-db container. Yes, the Docker container has a different IP than the host.

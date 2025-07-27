@@ -8,7 +8,7 @@ In the Year 249 a 12 Year war reached it's decisive moment at the Citadel of Ava
 
 One year after the Siege, the war came to it's conclusion and the Kingdom of Oriam was now free from the invasion once again. Rebuilding the Kingdom would take time.
 
-5 months later, while repairs of the Citadel of Avalon was still ongoing, a force deep in the forest north of the citadel stirs. The legendary Green Dragon has awakened and it's destructive power a threat to the citadel.
+5 months later, while repairs of the Citadel of Avalon was still ongoing, a force deep in the forest north of the citadel stirs. The legendary Green Dragon has awakened and it's destructive power is a threat to the citadel.
 
 Avalon needs new Heroes to step up. Will you become one too?
 

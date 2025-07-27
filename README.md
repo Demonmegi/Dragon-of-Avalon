@@ -1,6 +1,6 @@
 # Dragon-of-Avalon
 
-Based on LotGDocker 1.2 [https://github.com/Kizaing/LotGDocker](https://github.com/Kizaing/LotGDocker) which is Dragonprime 1.1.2. Included are simply the files from the upstream lotgd folder, which have been changed by me. If you want to set Dragon of Avalon up, simply install LotGDocker first and then overwrite the PHP files provided here.
+Based on LotGDocker 1.2 [https://github.com/Kizaing/LotGDocker](https://github.com/Kizaing/LotGDocker) which is 1.1.2 Dragonprime Edition. Included are simply the files from the upstream lotgd folder, which have been changed by me. If you want to set Dragon of Avalon up, simply install LotGDocker first and then overwrite the PHP files provided here.
 
 Story:
 

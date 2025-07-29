@@ -14,7 +14,7 @@ One year after the Siege, the war came to it's conclusion and the Kingdom of Ori
 
 Avalon needs new Heroes to step up. Will you become one too?
 
-Also if you want to learn more about the game, watch this video I made: [https://www.youtube.com/watch?v=amPLwK_Pq2c](https://www.youtube.com/watch?v=amPLwK_Pq2c)
+Also if you want to learn more about the Lore of the Original game, watch this video I made: [https://www.youtube.com/watch?v=amPLwK_Pq2c](https://www.youtube.com/watch?v=amPLwK_Pq2c)
 
 Current Status:
 

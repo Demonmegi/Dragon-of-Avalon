@@ -1,0 +1,42 @@
+`! Light Blue
+`1 Dark Blue
+`@ Light Green
+`2 Dark Green
+`# Light Cyan
+`3 Dark Cyan
+`$ Light Red
+`4 Dark Red
+`% Light Magenta
+`5 Dark Magenta
+`^ Light Yellow
+`6 Dark Yellow
+`& Light White
+`7 Dark White
+`) Light Black
+`~ Black
+`Q Light Orange
+`q Dark Orange
+`t Light Brown
+`T Dark Brown
+`E Light Rust
+`e Dark Rust
+`L Light LinkBlue
+`l Dark LinkBlue
+`y Khaki
+`Y Dark Khaki
+`K Dark Seagreen
+`r Rose
+`R Rose
+`v Ice Violet
+`V Blue Violet
+`g XLtGreen
+`G XLtGreen
+`j MdGrey
+`J MdBlue
+`x Burlywood
+`X Beige
+`k Aquamarine
+`p Light Salmon
+`P Salmon
+`m Wheat
+`M Tan

@@ -29,7 +29,7 @@ page_header();
 output("`cWelcome to Dragon of Avalon, a browser based role playing game, based on Seth Able's Legend of the Red Dragon.`n");
 
 if (getsetting("homecurtime", 1)) {
-	output("`@The current time in %s is `%%s`@.`0`n", getsetting("villagename", LOCATION_FIELDS), getgametime());
+	output("`@The current time in the %s is `%%s`@.`0`n", getsetting("villagename", LOCATION_FIELDS), getgametime());
 }
 
 if (getsetting("homenewdaytime", 1)) {

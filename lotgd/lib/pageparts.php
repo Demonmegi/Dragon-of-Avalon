@@ -48,7 +48,7 @@ function page_header(){
 
 	$arguments = func_get_args();
 	if (!$arguments || count($arguments) == 0) {
-		$arguments = array("Legend of the Green Dragon");
+		$arguments = array("Dragon of Avalon");
 	}
 	$title = call_user_func_array("sprintf_translate", $arguments);
 	$title = holidayize($title,'title');

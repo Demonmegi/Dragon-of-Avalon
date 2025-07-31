@@ -119,7 +119,6 @@ function cities_dohook($hookname,$args)
 			tlschema($args['schemas']['gatenav']);
 			addnav($args['gatenav']);
 			tlschema();
-			addnav('Travel','runmodule.php?module=cities&op=travel');
 			if( get_module_pref('paidcost') > 0 ) set_module_pref('paidcost',0);
 		break;
 

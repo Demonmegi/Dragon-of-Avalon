@@ -174,10 +174,10 @@ if (getsetting("enablecompanions",true)) {
 }
 
 addnav("Village of Avalon","runmodule.php?module=cities&op=travel&city=Village%20of%20Avalon");
-addnav("South Gate Avalon","runmodule.php?module=cities&op=travel&city=Southgate%20Avalon");
+addnav("South Gate","runmodule.php?module=cities&op=travel&city=South%20%20Gate");
 addnav("Outer Bailey","runmodule.php?module=cities&op=travel&city=Outer%20Bailey");
 addnav("Peasants Bailey","runmodule.php?module=cities&op=travel&city=Peasants%20Bailey");
-addnav("Outer Bailey","runmodule.php?module=cities&op=travel&city=Outer%20Bailey");
+addnav("Outer Keep","runmodule.php?module=cities&op=travel&city=Outer%20Keep");
 addnav("Inner Bailey","runmodule.php?module=cities&op=travel&city=Inner%20Bailey");
 addnav("Inner Keep","runmodule.php?module=cities&op=travel&city=Inner%20Keep");
 addnav("Caves","runmodule.php?module=cities&op=travel&city=Caves");
